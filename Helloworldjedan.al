@@ -10,5 +10,8 @@ pageextension 50100 CustomerListExt extends "Customer List"
         //IVANA
         //promena
         //ANJA
+        // promjena u masteru
+
+        // promjena drugaaa
     end;
 }
