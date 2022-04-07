@@ -10,6 +10,7 @@ pageextension 50101 "Customer Year Page" extends "Customer Card"
                 ToolTip = 'Specifies the value of the Year of Cooperation field.';
             }
         }
+        // moja nova izmena
     }
 
 }
