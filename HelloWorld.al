@@ -8,5 +8,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
     begin
         Message('App published: Hello world');
         //IVANA
+        //ANJA
     end;
 }
