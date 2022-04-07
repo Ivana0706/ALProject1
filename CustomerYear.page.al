@@ -15,6 +15,7 @@ pageextension 50101 "Customer Year Page" extends "Customer Card"
         // moja druga izmena
         // moja treca izmena
         // moja cetvrta izmena
+        //proba1234567
     }
 
 
