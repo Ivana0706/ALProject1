@@ -10,5 +10,23 @@ pageextension 50100 CustomerListExt extends "Customer List"
         //IVANA
         //promena
         //ANJA
+
+
+
+
+
+
+
+
+        //gdgdfsdffa
+
+
+
+
+
+
+
+
+
     end;
 }
